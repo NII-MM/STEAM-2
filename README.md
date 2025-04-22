@@ -1,4 +1,4 @@
-<H1>Δ Dead Delta Channel <h1/>
+<H1>Δ Dead Delta Channel
 
 👥 integrantes = Nicolas Monteiro, Lucas Pedroso e João Gabriel
 
@@ -18,4 +18,4 @@
 
 👾✊ motivação : é nosso sonho.
 
-Melhorias futuras : Ranking com pontuações salvas, melhorar graficos, adicionar mais itens e upgrades
+☄️🤖🚀 Melhorias futuras : Ranking com pontuações salvas, melhorar graficos, adicionar mais itens e upgrades
