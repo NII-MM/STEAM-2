@@ -1,4 +1,4 @@
-<H1>Δ Dead Delta Channel
+<H1>Δ Dead Channel Delta
 
 👥 integrantes = Nicolas Monteiro, Lucas Pedroso e João Gabriel
 
