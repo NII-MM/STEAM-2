@@ -10,33 +10,33 @@
 
 
 
-##⚒️ ferramentas 
+<H1>##⚒️ ferramentas : </h1>
 **linguagens**:[HTML, CSS, JAVA.]
 
-##✒️📜 Descrição : 
+<H1>##✒️📜 Descrição :</h1>
 
 [sobreviver a hordas de seres infectadas com mecanicas de aprimoramento de aspectos de jogo.]
 
-##🖱️⌨️ como jogar :
+<H1>##🖱️⌨️ como jogar :</h1>
 
 **[com mouse e teclado, fugir e derrotar hordas com as armas espaciais.]**
 
-##🕹️ funcionalidades :
+<H1>##🕹️ funcionalidades :</h1>
 
 **[crônometro, indicador de vida, tela de vitoria e música tema.]**
 
-#🧍‍♂️🎮 publico alvo :
+<H1>#🧍‍♂️🎮 publico alvo :</h1>
 
 geral.
 
-##🌌🛰️ cenario : 
+<H1>##🌌🛰️ cenario : </h1>
 
 **[Estação espacial infestada de monstros.]**
 
-#👾✊ motivação :
+<H1>#👾✊ motivação :</h1>
 
-<h1>é nosso sonho.</h1>
+é nosso sonho.
 
-##☄️🤖🚀 Melhorias futuras : 
+<H1>##☄️🤖🚀 Melhorias futuras : </h1>
 
 **[Ranking com pontuações salvas, melhorar graficos, adicionar mais itens e upgrades.]**
