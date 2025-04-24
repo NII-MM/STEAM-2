@@ -1,4 +1,4 @@
-<H1>Δ Dead Channel Delta<h1/>
+<H1>Δ Dead Channel Delta</h1>
 
 ##👥 integrantes 
 
