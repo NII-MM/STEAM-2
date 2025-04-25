@@ -19,7 +19,7 @@
 
 <H1>##🖱️⌨️ como jogar :</h1>
 
-**[com mouse e teclado, O jogo combina ação e ritmo acelerado com elementos leves de roguelike, onde o jogador deve sobreviver a 15 ondas inimigas crescentes, com um encontro especial a cada 5 ondas e um chefe no final. Entre as ondas, o jogadore recebem opções de upgrades aleatórios, incluindo vantagens ou melhorias de armas.]**
+**[com mouse e teclado, O jogo combina ação e ritmo acelerado com elementos leves de roguelike, onde o jogador deve sobreviver a 15 ondas inimigas crescentes, com um encontro especial a cada 5 ondas e um chefe no final. Entre as ondas, o jogador recebe opções de upgrades aleatórios, incluindo vantagens ou melhorias de armas.]**
 
 <H1>##🕹️ funcionalidades :</h1>
 
