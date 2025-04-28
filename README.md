@@ -15,11 +15,12 @@
 
 <H1>##✒️📜 Descrição :</h1>
 
-[Dead Channel Delta é um jogo de sobrevivência 2D baseado em ondas situado a bordo de uma estação espacial médica chamada ECHO Lazarus, o jogador assume o papel de uma cobaia que escapa do confinamento depois que um vírus alienígena se espalha por toda a instalação. À medida que a estação entra em colapso, ex-membros da tripulação, agora mutantes, e outros experimentos fracassados atacam em ondas.]
+[Dead Channel Delta é um jogo de sobrevivência 2D baseado em ondas situado a bordo de uma estação espacial médica chamada ECHO Lazarus, o jogador assume o papel de uma cobaia que escapa do confinamento depois que um vírus alienígena se espalha por toda a instalação. À medida que a estação entra em colapso, ex-membros da tripulação, agora mutantes, e outros experimentos fracassados tentam impedir sua fuga.]
 
 <H1>##🖱️⌨️ como jogar :</h1>
 
-**[com mouse e teclado, O jogo combina ação e ritmo acelerado com elementos leves de roguelike, onde o jogador deve sobreviver a 15 ondas inimigas crescentes, com um encontro especial a cada 5 ondas e um chefe no final. Entre as ondas, o jogador recebe opções de upgrades aleatórios, incluindo vantagens ou melhorias de armas.]**
+**[com mouse e teclado, O jogo combina ação e ritmo acelerado com elementos leves de roguelike, Os jogadores devem lutar por 15 níveis da estação em ruínas, progredindo 
+através da estaçãoA cada cinco níveis, uma batalha contra o chefe desafia o jogador e marca seu avanço para um setor novo e mais perigoso. Entre as batalhas, os jogadores desbloqueiam upgrades para ajudar sua sobrevivencia.]**
 
 <H1>##🕹️ funcionalidades :</h1>
 
