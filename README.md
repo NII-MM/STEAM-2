@@ -19,7 +19,7 @@
 
 ![Operador_De_Maquinas-JB](https://github.com/user-attachments/assets/bb3900c0-1644-4151-bf42-63cb3d8fece2)
 
-Gerente de Segurança da estação E.C.H.O. Lazarus, John Briggs, vulgo JB
+Gerente de Segurança da estação E.C.H.O. Lazarus, John Briggs, vulgo JB.
 
 
 
@@ -42,7 +42,7 @@ Público geral.
 
 ![ECHO_Lazarus-Logo](https://github.com/user-attachments/assets/07ea1d17-7395-4245-986d-90f45c071c53)
 
-E.C.H.O. Lazarus, operações de cuidado e saúde extraterrestres
+E.C.H.O. Lazarus, operações de cuidado e saúde extraterrestres.
 
 <H1>#👾✊ motivação :</h1>
 
