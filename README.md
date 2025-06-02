@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/b40183e7-1e7e-47fc-87e9-1ddb37d711db)
+![Uploading image.png…]()
+
+
+
 <H1>Dead Channel Delta Δ</h1>
 
 <H1>##👥 integrantes</H1> 
