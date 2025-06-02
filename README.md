@@ -2,6 +2,10 @@
 
 <H1>##👥 integrantes</H1> 
 
+![integrantes](https://github.com/user-attachments/assets/6b5adb3e-276a-48ce-84a6-5d1d2659a1dc)
+
+
+
 |Nome            |GitHub                                                      |Contado                     |
 |----------------|------------------------------------------------------------|----------------------------|
 |Nicolas Monteiro|[github.com/NII-MM](https://githun.com/NII-MM)              |[03218770041@senacrs.edu.br]|
