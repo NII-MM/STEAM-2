@@ -52,7 +52,7 @@ Sempre nos interassamos por game design, é provavelmente um dos aspectos que ma
 
 <H1>##☄️🤖🚀 Melhorias futuras : </h1>
 
-**[Ranking com pontuações salvas, melhorar graficos, adicionar mais itens e upgrades.]**
+**[Ranking com pontuações salvas, terminar as artes, adicionar mais torresm, inimigos e upgrades.]**
 
 
 --------------------------------------------------------------------------------------------------------
