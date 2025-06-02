@@ -23,7 +23,7 @@
 
 <H1>##🕹️ funcionalidades :</h1>
 
-**[Sistema monetário, diversas torres, e música tema.]**
+**[Sistema monetário, diversas torres, particlesJS, música tema e fade-in.]**
 
 <H1>#🧍‍♂️🎮 publico alvo :</h1>
 
