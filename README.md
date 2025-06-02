@@ -17,7 +17,6 @@
 
 [Dead Channel Delta é um jogo de estratégia onde você assume o papel de um Gerente de Segurança depois que um vírus alienígena se espalha por toda a estação espacial médica conhecida como ECHO Lazarus. A medida que ondas de inimigos aparacem, você é encarregado de posicionar defesas para combater os infectados que tentam destruir a instalação.
 
-![Operador_De_Maquinas-JB](https://github.com/user-attachments/assets/f64c4bf9-0b43-4f9c-adc2-81712d8fb8cd)
 
 
 
@@ -48,5 +47,3 @@ Sempre nos interassamos por game design, é provavelmente um dos aspectos que ma
 
 --------------------------------------------------------------------------------------------------------
 
-
-![image](https://github.com/user-attachments/assets/e3009b4b-15f0-4fb5-80d6-134f546897af)
