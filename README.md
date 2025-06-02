@@ -51,5 +51,5 @@ UM FILME DEAD CHANNEL DELTA:
 Inspirado na cronica de livros, que ispiraram o jogo, que inpiraram o filme, que veio a mim em um sonho profético, se Deus quiser, traremos um longa metragem baseado nos eventos do jogo, tendo a aparição do mais cabuloso dos filmes dos games, aclamado por filmes como "Um Filme Minecraft" e "Guru do Amor": JACK BLACK, interpretando o personagem principal JB.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-  | ![image](https://github.com/user-attachments/assets/17b33919-0b48-472d-9b65-54c82c83dfe9) |
----------------------------------------------------------------------------------------------------------------------------------------------------------
+   ![image](https://github.com/user-attachments/assets/17b33919-0b48-472d-9b65-54c82c83dfe9) 
+
