@@ -19,11 +19,11 @@
 
 <H1>##🖱️⌨️ como jogar :</h1>
 
-**[Com mouse, você pode escolher entre multiplas torres para a defesa da sua base.]**
+**[Com mouse, você escolhe entre multiplas torres para a defesa da sua base.]**
 
 <H1>##🕹️ funcionalidades :</h1>
 
-**[Sistema monetário, tela de vitoria e música tema.]**
+**[Sistema monetário, diversas torres, e música tema.]**
 
 <H1>#🧍‍♂️🎮 publico alvo :</h1>
 
