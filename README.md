@@ -23,7 +23,7 @@
 
 <H1>##🖱️⌨️ como jogar :</h1>
 
-**[Com mouse, você escolhe entre multiplas torres para a defesa da sua base.]**
+**[Usando um mouse (ou touchpad), você pode escolhe entre multiplas torres para defender sua base.]**
 
 <H1>##🕹️ funcionalidades :</h1>
 
@@ -31,12 +31,14 @@
 
 <H1>#🧍‍♂️🎮 publico alvo :</h1>
 
-Geral.
+Público geral.
 
 <H1>##🌌🛰️ cenario : </h1>
 
-**[Dead Channel Delta é ambientado a bordo do ECHO Lazarus, uma enorme estação espacial médica orbitando um planeta morto. A estação agora está escura, danificada e repleta de horrores infectados.]**
-![ECHO_Lazarus-Logo](https://github.com/user-attachments/assets/266f457e-f05f-45d4-9a38-15959cb830d3)
+**[Dead Channel Delta é ambientado a bordo do ECHO Lazarus, uma enorme estação espacial médica orbitando um planeta morto. A estação agora está escura, danificada e repleta de horrores.]**
+
+
+![ECHO_Lazarus-Logo](https://github.com/user-attachments/assets/07ea1d17-7395-4245-986d-90f45c071c53)
 
 
 <H1>#👾✊ motivação :</h1>
