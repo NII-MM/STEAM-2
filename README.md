@@ -1,8 +1,3 @@
-![image](https://github.com/user-attachments/assets/b40183e7-1e7e-47fc-87e9-1ddb37d711db)
-![Uploading image.png…]()
-
-
-
 <H1>Dead Channel Delta Δ</h1>
 
 <H1>##👥 integrantes</H1> 
@@ -45,3 +40,6 @@ Sempre nos interassamos por game design, é provavelmente um dos aspectos que ma
 <H1>##☄️🤖🚀 Melhorias futuras : </h1>
 
 **[Ranking com pontuações salvas, melhorar graficos, adicionar mais itens e upgrades.]**
+
+
+![image](https://github.com/user-attachments/assets/e3009b4b-15f0-4fb5-80d6-134f546897af)
