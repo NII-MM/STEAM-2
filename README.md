@@ -36,6 +36,8 @@ Geral.
 <H1>##🌌🛰️ cenario : </h1>
 
 **[Dead Channel Delta é ambientado a bordo do ECHO Lazarus, uma enorme estação espacial médica orbitando um planeta morto. A estação agora está escura, danificada e repleta de horrores infectados.]**
+![ECHO_Lazarus-Logo](https://github.com/user-attachments/assets/266f457e-f05f-45d4-9a38-15959cb830d3)
+
 
 <H1>#👾✊ motivação :</h1>
 
