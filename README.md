@@ -11,12 +11,15 @@
 
 
 <H1>##⚒️ ferramentas : </h1>
+
+![ferramentas](https://github.com/user-attachments/assets/26d647d6-ce9b-485c-bbac-23a497fd8f52)
+
+
 **linguagens**:[HTML, CSS, JAVA.]
 
 <H1>##✒️📜 Descrição :</h1>
 
-![descricao](https://github.com/user-attachments/assets/c8167000-3abf-4366-915e-a96228d62ad0)
-
+![descricao](https://github.com/user-attachments/assets/d132857b-2ef5-4e46-99be-ae236501983a)
 
 [Dead Channel Delta é um jogo de estratégia onde você assume o papel de um Gerente de Segurança depois que um vírus alienígena se espalha por toda a estação espacial médica conhecida como ECHO Lazarus. A medida que ondas de inimigos aparacem, você é encarregado de posicionar defesas para combater os infectados que tentam destruir a instalação.
 
@@ -24,21 +27,31 @@
 
 Gerente de Segurança da estação E.C.H.O. Lazarus, John Briggs, vulgo JB.
 
-
-
 <H1>##🖱️⌨️ como jogar :</h1>
+
+![como jogar](https://github.com/user-attachments/assets/4a954ca7-ca8a-4619-b447-cd912f0ad6a9)
+
 
 **[Usando um mouse (ou touchpad), você pode escolhe entre multiplas torres para defender sua base.]**
 
 <H1>##🕹️ funcionalidades :</h1>
 
+![funcionalidades](https://github.com/user-attachments/assets/ea895c00-c376-495b-9afa-b872f82d4eeb)
+
+
 **[Sistema monetário, diversas torres, particlesJS, música tema e fade-in.]**
 
 <H1>#🧍‍♂️🎮 publico alvo :</h1>
 
+![publico alvo](https://github.com/user-attachments/assets/259fd288-9274-4685-906f-81c1dcd3314a)
+
+
 Público geral.
 
 <H1>##🌌🛰️ cenario : </h1>
+
+![cenario](https://github.com/user-attachments/assets/8192b691-1db9-426f-97f5-69fe74fc2ce9)
+
 
 **[Dead Channel Delta é ambientado a bordo do ECHO Lazarus, uma enorme estação espacial médica orbitando um planeta morto. A estação agora está escura, danificada e repleta de horrores.]**
 
@@ -46,10 +59,12 @@ Público geral.
 ![Concept-ECHO_Lazarus-SemFundo](https://github.com/user-attachments/assets/133a8e37-bc02-41a8-9c26-f20c1608cc2a)
 
 
-
 E.C.H.O. Lazarus, operações de cuidado e saúde extraterrestres.
 
 <H1>#👾✊ motivação :</h1>
+
+![motivação](https://github.com/user-attachments/assets/75e6f227-fb5e-485f-b465-f5a6405be86f)
+
 
 Sempre nos interassamos por game design, é provavelmente um dos aspectos que mais nos atrai, achamos que esse projeto não só é simples o suficiente para que possamos realisticamente completar, mas também é uma ótima pratica para iniciantes como nós.
 
