@@ -40,7 +40,8 @@ Público geral.
 **[Dead Channel Delta é ambientado a bordo do ECHO Lazarus, uma enorme estação espacial médica orbitando um planeta morto. A estação agora está escura, danificada e repleta de horrores.]**
 
 
-![ECHO_Lazarus-Logo](https://github.com/user-attachments/assets/07ea1d17-7395-4245-986d-90f45c071c53)
+![Concept-ECHO_Lazarus-SemFundo](https://github.com/user-attachments/assets/4794e55d-ac4b-48e4-8ff5-c2911ab4ce20)
+
 
 E.C.H.O. Lazarus, operações de cuidado e saúde extraterrestres.
 
