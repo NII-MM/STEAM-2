@@ -1,4 +1,4 @@
-<H1>Dead Channel Delta Δ</h1>Add commentMore actions
+<H1>Dead Channel Delta Δ</h1>
 
 <H1>##👥 integrantes</H1> 
 
