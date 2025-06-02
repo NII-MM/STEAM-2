@@ -42,4 +42,7 @@ Sempre nos interassamos por game design, é provavelmente um dos aspectos que ma
 **[Ranking com pontuações salvas, melhorar graficos, adicionar mais itens e upgrades.]**
 
 
+--------------------------------------------------------------------------------------------------------
+
+
 ![image](https://github.com/user-attachments/assets/e3009b4b-15f0-4fb5-80d6-134f546897af)
