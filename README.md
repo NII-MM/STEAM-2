@@ -47,5 +47,5 @@ Sempre nos interassamos por game design, é provavelmente um dos aspectos que ma
 
 
 --------------------------------------------------------------------------------------------------------
-
+DEAD CHANNEL DELTA: O FILME
 ![image](https://github.com/user-attachments/assets/17b33919-0b48-472d-9b65-54c82c83dfe9)
