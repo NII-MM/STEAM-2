@@ -54,8 +54,8 @@ E.C.H.O. Lazarus, operações de cuidado e saúde extraterrestres.
 Sempre nos interassamos por game design, é provavelmente um dos aspectos que mais nos atrai, achamos que esse projeto não só é simples o suficiente para que possamos realisticamente completar, mas também é uma ótima pratica para iniciantes como nós.
 
 <H1>##☄️🤖🚀 Melhorias futuras : </h1>
-![Melhorias futuras](https://github.com/user-attachments/assets/cf7d6db4-9675-49cb-affc-ec0778380e8f)
 
+![Melhorias futuras](https://github.com/user-attachments/assets/cf7d6db4-9675-49cb-affc-ec0778380e8f)
 
 
 
