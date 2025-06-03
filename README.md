@@ -31,6 +31,8 @@
 
 ![descricao2](https://github.com/user-attachments/assets/2e537fce-d92a-4dc2-b31d-05d1339fa045)
 
+![JB](https://github.com/user-attachments/assets/06e46917-3fd4-4be4-bb8b-3fe92c0428cc)
+
 
 ![Operador_De_Maquinas-JB](https://github.com/user-attachments/assets/bb3900c0-1644-4151-bf42-63cb3d8fece2)
 
