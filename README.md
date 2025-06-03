@@ -1,5 +1,5 @@
 
-![titulo](https://github.com/user-attachments/assets/5a018e05-6440-44c7-b871-db3c040ff697)
+![titulo](https://github.com/user-attachments/assets/296c64aa-8712-4c86-86dc-fb1da5b4349b)
 
 
 ![integrantes](https://github.com/user-attachments/assets/6b5adb3e-276a-48ce-84a6-5d1d2659a1dc)
