@@ -57,7 +57,7 @@ Público geral.
 ![cenario](https://github.com/user-attachments/assets/8192b691-1db9-426f-97f5-69fe74fc2ce9)
 
 
-**[Dead Channel Delta é ambientado a bordo do ECHO Lazarus, uma enorme estação espacial médica orbitando um planeta morto. A estação agora está escura, danificada e repleta de horrores.]**
+**[Dead Channel Delta é ambientado a bordo da ECHO Lazarus, uma enorme estação espacial médica orbitando um planeta morto. mais especificamente o jogo se passa nos níveis mais baixos da estação, os armazens, com salas escuras, sujas e velhas, onde se encontram a maior parte dos seres criados pelo vírus alienígena conhecido como “vírus erebus”.]**
 
 
 ![Concept-ECHO_Lazarus-SemFundo](https://github.com/user-attachments/assets/133a8e37-bc02-41a8-9c26-f20c1608cc2a)
