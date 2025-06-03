@@ -76,6 +76,9 @@ Público geral.
 ![cenário2](https://github.com/user-attachments/assets/2d1c0b2e-6f20-402d-b4b5-86593300c5b9)
 
 
+![echoecho](https://github.com/user-attachments/assets/855b549e-4fec-4c7a-87d0-dc03cf603ada)
+
+
 ![Concept-ECHO_Lazarus-SemFundo](https://github.com/user-attachments/assets/133a8e37-bc02-41a8-9c26-f20c1608cc2a)
 
 
