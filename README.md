@@ -46,7 +46,8 @@ Gerente de Segurança da estação E.C.H.O. Lazarus, John Briggs, vulgo JB.
 
 ![como jogar](https://github.com/user-attachments/assets/4a954ca7-ca8a-4619-b447-cd912f0ad6a9)
 
-![como jogar2](https://github.com/user-attachments/assets/2a715024-22ee-40d6-94c0-57cda622b159)
+![comojogar](https://github.com/user-attachments/assets/205980b9-455d-4152-9240-e2249bbf83cf)
+
 
 
 <H1>##🕹️ funcionalidades :</h1>
