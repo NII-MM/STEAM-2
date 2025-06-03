@@ -18,6 +18,8 @@
 
 ![ferramentas](https://github.com/user-attachments/assets/26d647d6-ce9b-485c-bbac-23a497fd8f52)
 
+![ferramentas2](https://github.com/user-attachments/assets/8c6a4beb-d9e9-406c-9abe-dda382de5308)
+
 
 **linguagens**:[HTML, CSS, JAVA.]
 
