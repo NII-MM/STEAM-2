@@ -43,7 +43,7 @@ Gerente de Segurança da estação E.C.H.O. Lazarus, John Briggs, vulgo JB.
 ![funcionalidades](https://github.com/user-attachments/assets/ea895c00-c376-495b-9afa-b872f82d4eeb)
 
 
-**[Sistema monetário, diversas torres, particlesJS, música tema e fade-in.]**
+**[Sistema monetário, sistema de vida, ondas de inimigos, 3 torres defensivas com mecanicas unicas, música tema.]**
 
 <H1>#🧍‍♂️🎮 publico alvo :</h1>
 
