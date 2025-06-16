@@ -6,7 +6,7 @@
 
 
 
-|Nome            |GitHub                                                      |Contado                     |
+|Nome            |GitHub.                                                      |Contado                     |
 |----------------|------------------------------------------------------------|----------------------------|
 |Nicolas Monteiro|[github.com/NII-MM](https://githun.com/NII-MM)              |[03218770041@senacrs.edu.br]|
 |Lucas Pedroso   |[github.com/LucasLPedroso](https://github.com/LucasLPedroso)|[86859536004@senacrs.edu.br]|
